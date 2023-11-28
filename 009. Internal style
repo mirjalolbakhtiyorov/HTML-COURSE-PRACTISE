@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            background-color: beige;
+            color: brown;
+            font-size: 20px;
+            font-weight: 400;
+            text-decoration: dotted;
+        }
+        p{
+            background-color: aquamarine;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <H1>Hello worl</H1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+         Excepturi sint fuga rem perspiciatis deleniti, iure saepe velit recusandae 
+         quae pariatur sequi eligendi incidunt illo iusto accusamus modi cupiditate 
+         provident nostrum maiores! Quod, recusandae! Harum possimus totam quis minima 
+         cumque! Reiciendis earum optio qui tempora, 
+        dignissimos eum porro deserunt exercitationem ab!</p>
+</body>
+</html>
