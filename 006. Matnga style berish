@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <i>Matnni egri ko'rinishga olib keladi</i>
+    <br>
+    <b>Matnni qalinlashtiradi</b>
+    <br>
+    <del>Matnni ustiga chiziq tortadi</del>
+    <br>
+    <sup>sonni darajasini ko'rsatadi</sup>
+    <br>
+    x <sup>3</sup>
+    <br>
+    <sub> indeks uchun kerak bo'ladi</sub>
+    <br>
+    h <sub>2</sub>0
+</body>
+</html>
