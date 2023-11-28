@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+    <head>
+        <title>Sarlavha tegi</title>
+    </head>
+    <body>
+        <p>Head qismida asosan linklar uchun ishlatiladi</p>
+        <p>Body qismida saytdagi asosiy malumotlar kerak bo'ladi</p>
+        <p>Bu ishlatayotgan texnologiya HTML 5 texnologiyasidir.</p>
+    </body>
+</head>
