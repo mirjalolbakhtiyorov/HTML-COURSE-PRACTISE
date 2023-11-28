@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img{
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <img src="./image/...." alt="bu yerda rasm joylashgan">
+    <p>
+        Img tegi rasm joylashtirishimiz uchun kerak bo'ladi
+    </p>
+    <p>
+        Alt tegi bu yerda rasm joylashgan yozuvini chiqaradi
+    </p>
+</body>
+</html>
