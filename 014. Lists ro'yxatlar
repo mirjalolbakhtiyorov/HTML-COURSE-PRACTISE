@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- Tartiblanmagan ro'yxatlar-->
+<ul>
+    <li>
+        Olma 
+    </li>
+    <li>
+        anor
+    </li>
+    <li>
+        SHaftoli
+    </li>
+    <li>
+        Nok
+    </li>
+</ul>  
+
+<!-- Tartiblangan ro'yxatlar-->
+<ol>
+    <li>
+        Mirjalol
+    </li>
+    <li>
+        Asadbek
+    </li>
+    <li>
+        Asilbek
+    </li>
+    <li>
+        Sardor
+    </li>
+</ol>
+
+<ol type="A">
+    <li>Mirjalol</li>
+    <li>Asadbek</li>
+    <li>Asilbek</li>
+    <li>Sardorbek</li>
+</ol>
+
+<ol type="i">
+    <li>Mirjalol</li>
+    <li>Asadbek</li>
+    <li>Asilbek</li>
+    <li>Sardorbek</li>
+</ol>
+
+<!--Aralashgan ro'yxatlar -->
+<ul>
+    <li>
+        Ismlar
+    </li>
+    <ol>
+        <li>Mirjalol</li>
+        <li>Asadbek</li>
+        <li>Asilbek</li>
+        <li>Sardorbek</li>
+    </ol>
+    <li>
+        Mevalar
+    </li>
+    <ol>
+        <li>
+            Olma 
+        </li>
+        <li>
+            anor
+        </li>
+        <li>
+            SHaftoli
+        </li>
+        <li>
+            Nok
+        </li>
+    </ol>
+</ul>
+</body>
+</html>
