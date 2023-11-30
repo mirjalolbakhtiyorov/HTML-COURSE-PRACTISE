@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image</title>
+    <style>
+        table{
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td{
+            border: 1px solid black;
+            text-align: center;
+            background-color: aquamarine;
+
+        }        
+    </style>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <th>
+                N
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Surname
+            </th>
+            <th>
+                Telephone number
+            </th>
+        </thead>
+        <tbody>
+
+            
+            <tr>
+                <td>
+                    1
+                </td>
+                <td>
+                    Sardor
+                </td>
+                <td>
+                    Nazarov
+                </td>
+                <td>
+                    +84 5645 65 418641   
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    2
+                </td>
+                <td>
+                    Mirjalol
+                </td>
+                <td>
+                    Bakhtiyorov
+                </td>
+                <td>
+                    +1 254 254 54 15 145   
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
