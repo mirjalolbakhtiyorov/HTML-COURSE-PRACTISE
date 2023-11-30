@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <meta name="author" content="Mirjalol Bakhtiyorov">
+    <meta name="description" content="This html my practise web site">
+    <meta http-equiv="refresh" content="5">
+</head>
+<body>
+    <!-- Audio yuklash-->
+    <audio src="" controls> </audio>
+    <!-- Video yuklash-->
+    <video src="" controls></video>
+    <!--Rasm yuklash -->
+    <img src="" alt="">
+    <!-- youtube dan videe yuklash -->
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/yci475Vwc10?si=4MdyyV-IQ3qGu5d-" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen></iframe>
+</body>
+</html>
