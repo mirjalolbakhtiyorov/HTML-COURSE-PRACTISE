@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <meta name="author" content="Mirjalol Bakhtiyorov">
+    <meta name="description" content="This html my practise web site">
+    <meta http-equiv="refresh" content="5">
+</head>
+<body>
+    <form action="./server.php" method="get">
+        <label for="username">Username</label>
+        <input type="text" placeholder="Enter you name" class="username" id="username"><br><br>
+        <label for="name">Surname</label>
+        <input type="text" id="name" class="name" placeholder="Enter your Full name"><br><br>
+        <label for="password">Pasword</label>
+        <input type="password" placeholder="password" id="password" class="pasword"><br><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
