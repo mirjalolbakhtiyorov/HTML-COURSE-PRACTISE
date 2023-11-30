@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image</title>
+    <style>
+        img{
+            width: 100px;/* eni 100px */
+            height: 200px;/* bo'yi 100px */
+            border-radius: 50%; /* aylana ko'rinishga ega rasm  */
+        }
+    </style>
+</head>
+<body>
+  <!-- Rasm teglari -->
+  <!--  bu yerda agar brauzer malum bir sababga ko'ra rasmni
+     ocha olmasa rasm o'rnida bu yerda rasm bor yozuvi chiqadi-->
+  <img src="bu yerda rasm joylashgan manzil ko'rsatiladi"
+    alt="bu yerda rasm bor.">
+</body>
+</html>
